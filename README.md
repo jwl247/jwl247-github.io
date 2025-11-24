@@ -1,0 +1,2 @@
+# jwl247-github.io
+BLOG = GENERAL OBSERVATIONS
